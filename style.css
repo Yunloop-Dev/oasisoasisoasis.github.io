@@ -156,10 +156,10 @@
   border-bottom: none
 }
 #cities-wrap .company-wrap .social a.vk {
-  background-image: url(../images/vk.png)
+  background-image: url(vk.png)
 }
 #cities-wrap .company-wrap .social a.insta {
-  background-image: url(../images/insta.png)
+  background-image: url(insta.png)
 }
 #cities-wrap .company-wrap .adress {
   display: inline-block;
@@ -227,10 +227,10 @@ ymaps .social a:hover {
   border-bottom: none !important
 }
 ymaps .social a.vk {
-  background-image: url(../images/vk.png)
+  background-image: url(vk.png)
 }
 ymaps .social a.insta {
-  background-image: url(../images/insta.png)
+  background-image: url(insta.png)
 }
 #footer {
   min-height: 10vh;
@@ -486,16 +486,7 @@ nav span {
 .lang-wrap .mobile-menu b {
   font-weight: normal
 }
-.lang-wrap .ru {
-  background: url(../images/rus.png) left center no-repeat
-}
-.lang-wrap .en {
-  background: url(../images/en.png) left center no-repeat
-}
-#first {
-  background: url(../images/top-bg.jpg) center center no-repeat;
-  background-size: cover
-}
+
 @media (min-width:768px) {
   #first {
     height: 100vh;
@@ -573,27 +564,8 @@ nav span {
   max-width: 90%;
   padding: 20px 0
 }
-#forma {
-  background: url(../images/form-bg2.jpg) center bottom no-repeat;
-  background-size: cover
-}
-#forma p {
-  padding: 150px 0 50px
-}
-#eco {
-  background: url(../images/eco-bg.jpg) center center no-repeat;
-  background-size: cover
-}
-#eco h2 {
-  color: #fff !important;
-  margin: 0 0 30px
-}
-#eco h3 {
-  font-size: 1.32em;
-  color: #fff;
-  font-weight: bold;
-  margin: 40px 0 20px
-}
+
+
 #contact header {
   padding: 0 0 80px
 }
@@ -841,16 +813,7 @@ nav span {
 .lang-wrap .mobile-menu b {
   font-weight: normal
 }
-.lang-wrap .ru {
-  background: url(../images/rus.png) left center no-repeat
-}
-.lang-wrap .en {
-  background: url(../images/en.png) left center no-repeat
-}
-#first {
-  background: url(../images/top-bg.jpg) center center no-repeat;
-  background-size: cover
-}
+
 @media (min-width:768px) {
   #first {
     height: 100vh;
@@ -928,27 +891,7 @@ nav span {
   max-width: 90%;
   padding: 20px 0
 }
-#forma {
-  background: url(../images/form-bg2.jpg) center bottom no-repeat;
-  background-size: cover
-}
-#forma p {
-  padding: 150px 0 50px
-}
-#eco {
-  background: url(../images/eco-bg.jpg) center center no-repeat;
-  background-size: cover
-}
-#eco h2 {
-  color: #fff !important;
-  margin: 0 0 30px
-}
-#eco h3 {
-  font-size: 1.32em;
-  color: #fff;
-  font-weight: bold;
-  margin: 40px 0 20px
-}
+
 #contact header {
   padding: 0 0 80px
 }
@@ -1234,10 +1177,10 @@ html, body {
   border-bottom: none
 }
 #cities-wrap .company-wrap .social a.vk {
-  background-image: url(../images/vk.png)
+  background-image: url(vk.png)
 }
 #cities-wrap .company-wrap .social a.insta {
-  background-image: url(../images/insta.png)
+  background-image: url(insta.png)
 }
 #cities-wrap .company-wrap .adress {
   display: inline-block;
@@ -1305,10 +1248,10 @@ ymaps .social a:hover {
   border-bottom: none !important
 }
 ymaps .social a.vk {
-  background-image: url(../images/vk.png)
+  background-image: url(vk.png)
 }
 ymaps .social a.insta {
-  background-image: url(../images/insta.png)
+  background-image: url(insta.png)
 }
 #footer {
   min-height: 10vh;
@@ -1564,16 +1507,7 @@ nav span {
 .lang-wrap .mobile-menu b {
   font-weight: normal
 }
-.lang-wrap .ru {
-  background: url(../images/rus.png) left center no-repeat
-}
-.lang-wrap .en {
-  background: url(../images/en.png) left center no-repeat
-}
-#first {
-  background: url(../images/top-bg.jpg) center center no-repeat;
-  background-size: cover
-}
+
 @media (min-width:768px) {
   #first {
     height: 100vh;
@@ -1651,27 +1585,7 @@ nav span {
   max-width: 90%;
   padding: 20px 0
 }
-#forma {
-  background: url(../images/form-bg2.jpg) center bottom no-repeat;
-  background-size: cover
-}
-#forma p {
-  padding: 150px 0 50px
-}
-#eco {
-  background: url(../images/eco-bg.jpg) center center no-repeat;
-  background-size: cover
-}
-#eco h2 {
-  color: #fff !important;
-  margin: 0 0 30px
-}
-#eco h3 {
-  font-size: 1.32em;
-  color: #fff;
-  font-weight: bold;
-  margin: 40px 0 20px
-}
+
 #contact header {
   padding: 0 0 80px
 }
@@ -1919,16 +1833,7 @@ nav span {
 .lang-wrap .mobile-menu b {
   font-weight: normal
 }
-.lang-wrap .ru {
-  background: url(../images/rus.png) left center no-repeat
-}
-.lang-wrap .en {
-  background: url(../images/en.png) left center no-repeat
-}
-#first {
-  background: url(../images/top-bg.jpg) center center no-repeat;
-  background-size: cover
-}
+
 @media (min-width:768px) {
   #first {
     height: 100vh;
@@ -2006,27 +1911,7 @@ nav span {
   max-width: 90%;
   padding: 20px 0
 }
-#forma {
-  background: url(../images/form-bg2.jpg) center bottom no-repeat;
-  background-size: cover
-}
-#forma p {
-  padding: 150px 0 50px
-}
-#eco {
-  background: url(../images/eco-bg.jpg) center center no-repeat;
-  background-size: cover
-}
-#eco h2 {
-  color: #fff !important;
-  margin: 0 0 30px
-}
-#eco h3 {
-  font-size: 1.32em;
-  color: #fff;
-  font-weight: bold;
-  margin: 40px 0 20px
-}
+
 #contact header {
   padding: 0 0 80px
 }
