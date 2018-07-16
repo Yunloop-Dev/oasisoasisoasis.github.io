@@ -2,6 +2,9 @@ ymaps.ready(init);
 
 function init() {
     var myMap = new ymaps.Map("map", {
+        center: [62.6363139498408,76.47798899609371],
+            zoom: 3,
+            controls: ['zoomControl']
         }),
 
     // Создаем геообъект с типом геометрии "Точка".
