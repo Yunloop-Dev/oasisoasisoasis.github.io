@@ -1,0 +1,280 @@
+#find-in-city {
+	min-height: 10vh;
+	padding: 30px 0;
+	background: #242423;
+	font-size: 2.32em;
+	font-weight: 300;
+	text-align: center;
+	color: #cfa656;
+}
+#map-wrap {
+	position: relative;
+	height: 80vh;
+	width: 100%
+}
+@media all and (max-width:767px) {
+	#map-wrap {
+		height: auto
+	}
+}
+#map {
+	float: left;
+	height: 100%;
+	z-index: 1
+}
+@media all and (max-width:767px) {
+	#map {
+		display: none
+	}
+}
+#map p {
+	color: #000
+}
+#map p::first-letter {
+	font-size: 1em;
+	color: #000
+}
+#map a {
+	border-bottom: 1px dashed transparent;
+	color: #cfa656;
+	-webkit-transition: all 500ms;
+	transition: all 500ms
+}
+#map a:hover {
+	border-bottom-color: #cfa656
+}
+#cities-wrap {
+	float: left;
+	width: 320px;
+	height: 100%;
+	background: #333332;
+	color: #fff;
+	z-index: 100;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	overflow: hidden
+}
+@media all and (max-width:767px) {
+	#cities-wrap {
+		width: 100%
+	}
+}
+#cities-wrap .city-wrap {
+	padding: 3px 0
+}
+@media all and (max-width:767px) {
+	#cities-wrap .city-wrap {
+		width: 280px;
+		margin: 0 auto
+	}
+}
+#cities-wrap .city-wrap .all-placemarks {
+	display: none
+}
+#cities-wrap .city-wrap .city {
+	display: block;
+	width: 100%;
+	margin: 0 0 5px;
+	cursor: pointer;
+	color: #cfa656;
+}
+#cities-wrap .city-wrap .city:hover {
+	text-decoration: underline
+}
+#cities-wrap .company-wrap {
+	padding: 5px 0 5px 10px;
+	border: 1px solid transparent;
+	font-size: .9em;
+	-webkit-transition: all 500ms;
+	transition: all 500ms
+}
+#cities-wrap .company-wrap a {
+	display: inline-block;
+	clear: both;
+	color: #fff;
+	-webkit-transition: all 500ms;
+	transition: all 500ms;
+	text-decoration: none;
+	border-bottom: 1px dashed transparent
+}
+#cities-wrap .company-wrap a:hover {
+	text-decoration: none;
+	color: #cfa656;
+	border-bottom-color: #cfa656;
+}
+#cities-wrap .company-wrap .company-name {
+	margin: 0 0 5px
+}
+#cities-wrap .company-wrap .place-item {
+	padding: 0 0 0 7px;
+	margin: 8px 0
+}
+#cities-wrap .company-wrap .company-icon-wrap {
+	display: block;
+	float: left;
+	width: 40px
+}
+#cities-wrap .company-wrap .company-icon-wrap .company-icon {
+	display: block;
+	width: 100%;
+	height: 40px;
+	margin: 7px 0;
+	background-position: center center;
+	background-size: 90% auto;
+	background-repeat: no-repeat;
+	background-color: transparent
+}
+#cities-wrap .company-wrap .company-icon-wrap .company-icon img {
+	display: block;
+	width: 100%;
+	height: auto
+}
+#cities-wrap .company-wrap .company-icon-wrap .company-icon-description {
+	width: 100%;
+	font-size: .7em;
+	text-align: center
+}
+#cities-wrap .company-wrap .contact-info-wrap {
+	display: inline-block;
+	max-width: 200px;
+	padding: 0 0 0 10px
+}
+#cities-wrap .company-wrap .social a {
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+	margin: 0 5px 0 0;
+	background-size: 100% auto;
+	background-position: 0 0;
+	clear: none;
+	-webkit-transition: none;
+	transition: none
+}
+#cities-wrap .company-wrap .social a:hover {
+	background-position: 0 -25px;
+	text-decoration: none;
+	border-bottom: none
+}
+#cities-wrap .company-wrap .social a.vk {
+	background-image: url(../images/vk.png)
+}
+#cities-wrap .company-wrap .social a.insta {
+	background-image: url(../images/insta.png)
+}
+#cities-wrap .company-wrap .adress {
+	display: inline-block;
+	margin: 3px 0 5px;
+	cursor: pointer;
+	-webkit-transition: all 500ms;
+	transition: all 500ms
+}
+#cities-wrap .company-wrap .adress:hover {
+	text-decoration: none;
+	color: #FFBA23
+}
+#cities-wrap .company-wrap .sales-info, #cities-wrap .company-wrap .work-time, #cities-wrap .company-wrap .phone, #cities-wrap .company-wrap .mail, #cities-wrap .company-wrap .site, #cities-wrap .company-wrap .what-to-do {
+	font-size: .9em
+}
+#cities-wrap .exclusive-wrap .company-wrap {
+	color: #FFBA23 !important
+}
+#cities-wrap .exclusive-wrap .company-wrap:hover {
+	border-color: #FFBA23
+}
+#cities-wrap .exclusive-wrap a, #cities-wrap .exclusive-wrap .adress {
+	color: #FFBA23
+}
+#cities-wrap .regular-wrap .regular-header {
+	width: 100%
+}
+#cities-wrap .regular-wrap .regular-header span {
+	display: block;
+	width: 100%;
+	padding: 3px 0;
+	margin: 5px 0;
+	border: 1px solid #FFBA23;
+	text-align: center;
+	cursor: pointer;
+	-webkit-transition: background 500ms;
+	transition: background 500ms
+}
+#cities-wrap .regular-wrap .regular-header span:hover, #cities-wrap .regular-wrap .regular-header span.active-button {
+	background: #FFBA23;
+	color: #fff
+}
+#cities-wrap .regular-wrap .company-wrap {
+	display: none
+}
+#cities-wrap .regular-wrap .company-wrap.active-type-company {
+	display: block
+}
+#cities-wrap .regular-wrap .company-wrap:hover {
+	border-color: #fff
+}
+ymaps .social a {
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+	margin: 0 5px 0 0;
+	background-size: 100% auto;
+	background-position: 0 0;
+	clear: none;
+	-webkit-transition: none !important;
+	transition: none !important
+}
+ymaps .social a:hover {
+	text-decoration: none !important;
+	border-bottom: none !important
+}
+ymaps .social a.vk {
+	background-image: url(../images/vk.png)
+}
+ymaps .social a.insta {
+	background-image: url(../images/insta.png)
+}
+#footer {
+	min-height: 10vh;
+	background: #1f1f1e
+}
+#footer .container {
+	padding: 30px 0
+}
+#footer .container div {
+	padding: 10px 0;
+	text-align: center
+}
+#footer .container div a {
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	margin: 0 15px;
+	background: #fff;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	-webkit-box-shadow: 0 0 0 #FFBA23;
+	box-shadow: 0 0 0 #FFBA23;
+	-webkit-transition: all 500ms;
+	transition: all 500ms
+}
+#footer .container div a:hover {
+	text-decoration: none;
+	-webkit-box-shadow: 0 0 30px #FFBA23;
+	box-shadow: 0 0 30px #FFBA23;
+	background: #FFBA23
+}
+#footer .container div a span {
+	display: block;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	font-size: 20px;
+	line-height: 28px;
+	color: #242423
+}
+#footer .container div a span.fa-instagram {
+	line-height: 30px
+}
+#footer .copyright {
+	font-size: .6em;
+	color: #fff
+}
