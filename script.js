@@ -408,7 +408,7 @@ function init() {
             preset: 'islands#yellowStarIcon',
             
             
-        }));
+        }))
           .add(new ymaps.Placemark([56.340657650797, 43.952476746033], {
             hintContent: 'Eva hookah shop',
             balloonContentHeader:'Eva hookah shop',
@@ -693,7 +693,7 @@ function init() {
             
             
         }))
-         .add(new ymaps.Placemark([55.972752601600, 37.938606957700], {
+                  .add(new ymaps.Placemark([55.972752601600, 37.938606957700], {
             hintContent: '\u041a\u0430\u043b\u044c\u044f\u043d\u043d\u0430\u044f \u043c\u0430\u0441\u0442\u0435\u0440\u0441\u043a\u0430\u044f 1718',
             balloonContentHeader:'\u041a\u0430\u043b\u044c\u044f\u043d\u043d\u0430\u044f \u043c\u0430\u0441\u0442\u0435\u0440\u0441\u043a\u0430\u044f 1718',
             balloonContentBody: '\u003Cp\u003E\u0425\u043b\u0435\u0431\u043e\u0437\u0430\u0432\u043e\u0434\u0441\u043a\u0430\u044f, 34\u003Cbr\u003E8-929-996-6606\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027http:\/\/1718.\u0440\u0444\u0027\u003Ehttp:\/\/1718.\u0440\u0444\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
@@ -819,9 +819,6 @@ function init() {
             
             
         }));
-
-
-
 
 
     function makeCollection(group) {
