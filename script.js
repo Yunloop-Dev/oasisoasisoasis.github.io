@@ -41,6 +41,15 @@ function init() {
             preset: 'islands#yellowStarIcon',
             
             
+        }))
+        .add(new ymaps.Placemark([59.927869875400, 30.370724542300], {
+            hintContent: '\u041c\u0430\u0433\u0430\u0437\u0438\u043d Darkside Shop',
+            balloonContentHeader:'\u041c\u0430\u0433\u0430\u0437\u0438\u043d Darkside Shop',
+            balloonContentBody: '\u003Cp\u003E\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u043a\u0430\u044f, 8\u003Cbr\u003E+7-921-909-7800\u003Cbr\u003E\u043f\u043d - \u043f\u0442: \u0441 9.00 \u0434\u043e 18.00\r\n\u003Cbr\u003Esale@darksideshop.com\u003Cbr\u003E\u003C\/p\u003E'
+    }, {
+            preset: 'islands#yellowStarIcon',
+            
+            
         }));
     
     
