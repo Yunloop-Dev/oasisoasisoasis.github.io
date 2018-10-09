@@ -33,9 +33,9 @@ function init() {
             
         }))
         .add(new ymaps.Placemark([58.599884213500, 49.660120416000], {
-            hintContent: 'Oasis \u041a\u0438\u0440\u043e\u0432',
-            balloonContentHeader:'Oasis \u041a\u0438\u0440\u043e\u0432',
-            balloonContentBody: '\u003Cp\u003E\u041a\u0438\u0440\u043e\u0432\u003Cbr\u003E+7-953-675-5544\u003Cbr\u003E\u043f\u043d - \u043f\u0442: \u0441 9.00 \u0434\u043e 18.00\u003Cbr\u003Ekirov@oasiscoconutcoal.com\u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027vk\u0027 target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/dsvyatka\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
+            hintContent: 'Oasis Kirov',
+            balloonContentHeader:'Oasis Kirov',
+            balloonContentBody: '+7-953-675-5544\u003Cbr\u003EMonday – Friday: 9:00 AM – 6:00 PM\u003Cbr\u003Ekirov@oasiscoconutcoal.com\u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027vk\u0027 target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/dsvyatka\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
         }, {
             preset: 'islands#yellowStarIcon',
             
@@ -141,9 +141,9 @@ function init() {
             
         }))
          .add(new ymaps.Placemark([52.258658155600, 104.322201958000], {
-            hintContent: 'KalyanClub \u0418\u0440\u043a\u0443\u0442\u0441\u043a',
-            balloonContentHeader:'KalyanClub \u0418\u0440\u043a\u0443\u0442\u0441\u043a',
-            balloonContentBody: '\u003Cp\u003E\u0411\u0430\u0439\u043a\u0430\u043b\u044c\u0441\u043a\u0430\u044f, 188\/1\u003Cbr\u003E+7-3952-76-8776\u003Cbr\u003Eirkutsk@oasiscoconutcoal.com\u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027vk\u0027 target=\u0027_blank\u0027 href=\u0027http:\/\/kalyanclub.com\/\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
+            hintContent: 'KalyanClub Irkutsk',
+            balloonContentHeader:'KalyanClub Irkutsk',
+            balloonContentBody: '188/1 Baykalskaya Street\u003Cbr\u003E+7-3952-76-8776\u003Cbr\u003Eirkutsk@oasiscoconutcoal.com\u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027vk\u0027 target=\u0027_blank\u0027 href=\u0027http:\/\/kalyanclub.com\/\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
             
@@ -240,7 +240,7 @@ function init() {
          .add(new ymaps.Placemark([55.819884166566, 49.118906042328], {
             hintContent: 'Darkside Shop',
             balloonContentHeader:'Darkside Shop',
-            balloonContentBody: 'u003Cp\u003E\u0427\u0438\u0441\u0442\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0430\u044f, 25\u003Cbr\u003E8- 906-333-5550\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027kazan@oasiscoconutcoal.com\u0027\u003Ekazan@oasiscoconutcoal.com\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003EE'
+            balloonContentBody: '25 Chistopolskaya Street\u003Cbr\u003E8-906-333-5550\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027kazan@oasiscoconutcoal.com\u0027\u003Ekazan@oasiscoconutcoal.com\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
             
@@ -285,7 +285,7 @@ function init() {
          .add(new ymaps.Placemark([56.895294123031, 60.613387669311], {
             hintContent: 'Royal Smoke Shop',
             balloonContentHeader:'Royal Smoke Shop',
-            balloonContentBody: '\u003Cp\u003E\u041f\u0440. \u041a\u043e\u0441\u043c\u043e\u043d\u0430\u0432\u0442\u043e\u0432 27\u003Cbr\u003E8-343-302-0717\u003Cbr\u003Eekb@oasiscoconutcoal.com\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027ekb.royal-smoke.com\u0027\u003Eekb.royal-smoke.com\u003C\/a\u003E\u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027vk\u0027 target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/rs_shop_ekb\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
+            balloonContentBody: '27 Kosmonavtov Avenue\u003Cbr\u003E8-343-302-0717\u003Cbr\u003Eekb@oasiscoconutcoal.com\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027ekb.royal-smoke.com\u0027\u003Eekb.royal-smoke.com\u003C\/a\u003E\u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027vk\u0027 target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/rs_shop_ekb\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
             
@@ -421,16 +421,16 @@ function init() {
           .add(new ymaps.Placemark([45.046412074572, 38.979288330688], {
             hintContent: 'Hookah Like',
             balloonContentHeader:'Hookah Like',
-            balloonContentBody: '\u003Cp\u003E\u041a\u0440\u0430\u0441\u043d\u0430\u044f,176\u003Cbr\u003E+7-903-447-22-55\u003Cbr\u003E\u041f\u043d-\u0432\u0441 ,c 10:00 \u0434\u043e 22:00\u003Cbr\u003EHookahLike@oasiscoconutcoal.com\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027http:\/\/hookah-like.ru\u0027\u003Ehttp:\/\/hookah-like.ru\u003C\/a\u003E\u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027insta\u0027 target=\u0027_blank\u0027 href=\u0027http:\/\/instagram.com\/hookah_like\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
+            balloonContentBody: '176 Krasnaya Street\u003Cbr\u003E+7-903-447-22-55\u003Cbr\u003EMonday – Sunday, 10:00 AM – 10:00 PM\u003Cbr\u003EHookahLike@oasiscoconutcoal.com\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027http:\/\/hookah-like.ru\u0027\u003Ehttp:\/\/hookah-like.ru\u003C\/a\u003E\u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027insta\u0027 target=\u0027_blank\u0027 href=\u0027http:\/\/instagram.com\/hookah_like\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
             
             
         }))
           .add(new ymaps.Placemark([55.352155843444, 86.088808034393], {
-            hintContent: '\u041a\u0430\u043b\u044c\u044f\u043d\u0430 \u041c\u0430\u043c\u0430',
-            balloonContentHeader:'\u041a\u0430\u043b\u044c\u044f\u043d\u0430 \u041c\u0430\u043c\u0430',
-            balloonContentBody: '\u003Cp\u003E\u041a\u043e\u043b\u043e\u043c\u0435\u0439\u0446\u0435\u0432\u0430,8, \u0441 09:00 \u0434\u043e 17:00; ,\u0428\u0430\u0445\u0442\u0435\u0440\u043e\u0432,87, \u0441 12:00 \u0434\u043e 20:00\u003Cbr\u003E+7-961-727-80-17\u003Cbr\u003E kemerovo@oasiscoconutcoal.com \u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/id307996438\u0027\u003Ehttps:\/\/vk.com\/id307996438\u003C\/a\u003E\u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027vk\u0027 target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/kalyanamama\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
+            hintContent: 'Kalyana Mama',
+            balloonContentHeader:'Kalyana Mama',
+            balloonContentBody: '8 Kolomeytseva Street, 9:00 AM – 5:00 PM;\u003Cbr\u003E87 Shakhtyorov Street, 12:00 AM – 8:00 PM\u003Cbr\u003E+7-961-727-80-17\u003Cbr\u003E kemerovo@oasiscoconutcoal.com \u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/id307996438\u0027\u003Ehttps:\/\/vk.com\/id307996438\u003C\/a\u003E\u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027vk\u0027 target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/kalyanamama\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
             
@@ -473,8 +473,9 @@ function init() {
             
         }))
           .add(new ymaps.Placemark([45.048043652310, 38.965395500000], {
-            
-            balloonContentBody: '\u003Cp\u003E\u0418\u043c \u0411\u0430\u0431\u0443\u0448\u043a\u0438\u043d\u0430 \u0443\u043b, \u0434\u043e\u043c 218\u003Cbr\u003E+7-861-259-44-43\u003Cbr\u003E 12:00- 03:00 \u003Cbr\u003EKrasnodar@oasiscoconutcoal.com \u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027insta\u0027 target=\u0027_blank\u0027 href=\u0027http:\/\/instagram.com\/hookahplacekrasnodar\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
+            hintContent: 'The representative office of Oasis',
+            balloonContentHeader:'The representative office of Oasis',
+            balloonContentBody: '218 Imeni Babushkina Street\u003Cbr\u003E+7-861-259-44-43\u003Cbr\u003E12:00 AM – 3:00 AM\u003Cbr\u003EKrasnodar@oasiscoconutcoal.com \u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027insta\u0027 target=\u0027_blank\u0027 href=\u0027http:\/\/instagram.com\/hookahplacekrasnodar\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
             
@@ -661,15 +662,16 @@ function init() {
          .add(new ymaps.Placemark([50.540621702323, 137.028201542330], {
             hintContent: 'Hookah Store',
             balloonContentHeader:'Hookah Store',
-            balloonContentBody: '\u003Cp\u003E\u041f\u0438\u043e\u043d\u0435\u0440\u0441\u043a\u0430\u044f,20\u003Cbr\u003E+7-929-409-7709\u003Cbr\u003EValya_787@mail.ru\u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027insta\u0027 target=\u0027_blank\u0027 href=\u0027http:\/\/instagram.com\/Hookah_Store_kms\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
+            balloonContentBody: '20 Pionerskaya Street\u003Cbr\u003E+7-929-409-7709\u003Cbr\u003EValya_787@mail.ru\u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027insta\u0027 target=\u0027_blank\u0027 href=\u0027http:\/\/instagram.com\/Hookah_Store_kms\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
             
             
         }))
          .add(new ymaps.Placemark([45.029328926183, 38.973995957672], {
-            
-            balloonContentBody: '\u003Cp\u003E\u041a\u0440\u0430\u0441\u043d\u043e\u0430\u0440\u043c\u0435\u0439\u0441\u043a\u0430\u044f, 59\u003Cbr\u003E+7-925-277-3774\u003Cbr\u003E\u0441 15:00 \u0434\u043e 03:00\u003Cbr\u003EKrasnodar@oasiscoconutcoal.com \u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027vk\u0027 target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/id367905786\u0027\u003E\u003C\/a\u003E\u003Ca class=\u0027insta\u0027 target=\u0027_blank\u0027 href=\u0027http:\/\/instagram.com\/r.f.handmade_hookahs\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
+            hintContent: 'The representative office of Oasis',
+            balloonContentHeader:'The representative office of Oasis',
+            balloonContentBody: '59 Krasnoarmeyskaya Street\u003Cbr\u003E+7-925-277-3774\u003Cbr\u003E3:00 PM – 3:00 AM\u003Cbr\u003EKrasnodar@oasiscoconutcoal.com \u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027vk\u0027 target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/id367905786\u0027\u003E\u003C\/a\u003E\u003Ca class=\u0027insta\u0027 target=\u0027_blank\u0027 href=\u0027http:\/\/instagram.com\/r.f.handmade_hookahs\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
             
@@ -694,9 +696,9 @@ function init() {
             
         }))
                   .add(new ymaps.Placemark([55.972752601600, 37.938606957700], {
-            hintContent: '\u041a\u0430\u043b\u044c\u044f\u043d\u043d\u0430\u044f \u043c\u0430\u0441\u0442\u0435\u0440\u0441\u043a\u0430\u044f 1718',
-            balloonContentHeader:'\u041a\u0430\u043b\u044c\u044f\u043d\u043d\u0430\u044f \u043c\u0430\u0441\u0442\u0435\u0440\u0441\u043a\u0430\u044f 1718',
-            balloonContentBody: '\u003Cp\u003E\u0425\u043b\u0435\u0431\u043e\u0437\u0430\u0432\u043e\u0434\u0441\u043a\u0430\u044f, 34\u003Cbr\u003E8-929-996-6606\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027http:\/\/1718.\u0440\u0444\u0027\u003Ehttp:\/\/1718.\u0440\u0444\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
+            hintContent: 'Hookah workshop 1718',
+            balloonContentHeader:'Hookah workshop 1718',
+            balloonContentBody: '34 Khlebozavodskaya Street\u003Cbr\u003E8-929-996-6606\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027http:\/\/1718.\u0440\u0444\u0027\u003Ehttp:\/\/1718.\u0440\u0444\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
             
@@ -705,7 +707,7 @@ function init() {
          .add(new ymaps.Placemark([55.940575111600, 37.502546457700], {
             hintContent: 'Mansarda hookah club \u0026 lounge',
             balloonContentHeader:'Mansarda hookah club \u0026 lounge',
-            balloonContentBody: '\u003Cp\u003E\u0410\u043a\u0430\u0434\u0435\u043c\u0438\u043a\u0430 \u041b\u0430\u0432\u0440\u0435\u043d\u0442\u044c\u0435\u0432\u0430, 8\u003Cbr\u003E8-495-543-5025\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/mansardalounge\u0027\u003Ehttps:\/\/vk.com\/mansardalounge\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
+            balloonContentBody: '8 Akademika Lavrentyeva Street\u003Cbr\u003E8-495-543-5025\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/mansardalounge\u0027\u003Ehttps:\/\/vk.com\/mansardalounge\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
             
@@ -757,18 +759,18 @@ function init() {
             
         }))
          .add(new ymaps.Placemark([55.359368016700, 86.076734084700], {
-            hintContent: '\u041a\u0430\u043b\u044c\u044f\u043d\u043d\u0430\u044f Smoke House',
-            balloonContentHeader:'\u041a\u0430\u043b\u044c\u044f\u043d\u043d\u0430\u044f Smoke House',
-            balloonContentBody: '\u003Cp\u003E\u041a\u0438\u0440\u043e\u0432\u0430, 25\u003Cbr\u003E8-983-596-2463\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/sh_kem\u0027\u003Ehttps:\/\/vk.com\/sh_kem\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
+            hintContent: 'Smoke House Hookah bar',
+            balloonContentHeader:'Smoke House Hookah bar',
+            balloonContentBody: '25 Kirova Street\u003Cbr\u003E8-983-596-2463\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/sh_kem\u0027\u003Ehttps:\/\/vk.com\/sh_kem\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
             
             
         }))
          .add(new ymaps.Placemark([52.265180733600, 104.259843042000], {
-            hintContent: '\u041a\u0430\u043b\u044c\u044f\u043d\u043d\u0430\u044f Smoke House',
-            balloonContentHeader:'\u041a\u0430\u043b\u044c\u044f\u043d\u043d\u0430\u044f Smoke House',
-            balloonContentBody: '\u003Cp\u003E\u041b\u0435\u0440\u043c\u043e\u043d\u0442\u043e\u0432\u0430, 81\/2\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/sh_irkutsk\u0027\u003Ehttps:\/\/vk.com\/sh_irkutsk\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
+            hintContent: 'Smoke House Hookah bar',
+            balloonContentHeader:'Smoke House Hookah bar',
+            balloonContentBody: '81/2 Lermontova Street\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/sh_irkutsk\u0027\u003Ehttps:\/\/vk.com\/sh_irkutsk\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
             
@@ -811,9 +813,9 @@ function init() {
             
         }))
          .add(new ymaps.Placemark([45.039862861300, 38.976915457700], {
-            hintContent: '\u041a\u0430\u043b\u044c\u044f\u043d\u043d\u0430\u044f Smoke House',
-            balloonContentHeader:'\u041a\u0430\u043b\u044c\u044f\u043d\u043d\u0430\u044f Smoke House',
-            balloonContentBody: '\u003Cp\u003E\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f, 354\u003Cbr\u003E8-900-233-3101\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/smokehouse_krd\u0027\u003Ehttps:\/\/vk.com\/smokehouse_krd\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
+            hintContent: 'Smoke House Hookah bar',
+            balloonContentHeader:'Smoke House Hookah bar',
+            balloonContentBody: '354 Severnaya Street\u003Cbr\u003E8-900-233-3101\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/smokehouse_krd\u0027\u003Ehttps:\/\/vk.com\/smokehouse_krd\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
             
