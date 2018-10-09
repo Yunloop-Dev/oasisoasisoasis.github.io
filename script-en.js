@@ -96,8 +96,8 @@ function init() {
             
         }))
         .add(new ymaps.Placemark([50.591543157691, 36.587386410176], {
-            hintContent: 'Oasis \u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434',
-            balloonContentHeader:'Oasis \u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434',
+            hintContent: 'Oasis Belgorod',
+            balloonContentHeader:'Oasis Belgorod',
             balloonContentBody: '\u003Cp\u003E+7-915-571-4335\u003Cbr\u003Ebelgorod@oasiscoconutcoal.com\u003Cbr\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
@@ -802,9 +802,9 @@ function init() {
             
         }))
          .add(new ymaps.Placemark([50.596350979700, 36.585326473600], {
-            hintContent: '\u041a\u0430\u043b\u044c\u044f\u043d\u043d\u0430\u044f Smoke House',
-            balloonContentHeader:'\u041a\u0430\u043b\u044c\u044f\u043d\u043d\u0430\u044f Smoke House',
-            balloonContentBody: '\u003Cp\u003E\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/sh_belgorod\u0027\u003Ehttps:\/\/vk.com\/sh_belgorod\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
+            hintContent: 'Shisha bar Smoke House',
+            balloonContentHeader:'Shisha bar Smoke House',
+            balloonContentBody: 'Belgorod br\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/sh_belgorod\u0027\u003Ehttps:\/\/vk.com\/sh_belgorod\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
             
