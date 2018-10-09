@@ -51,18 +51,18 @@ function init() {
             
         }))
         .add(new ymaps.Placemark([48.705730680000, 44.517961415300], {
-            hintContent: '\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u043a\u0430\u043b\u044c\u044f\u043d\u043e\u0432 \u041e\u0431\u043b\u0430\u043a\u043e',
-            balloonContentHeader:'\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u043a\u0430\u043b\u044c\u044f\u043d\u043e\u0432 \u041e\u0431\u043b\u0430\u043a\u043e',
-            balloonContentBody: '\u003Cp\u003E\u0410\u043b\u043b\u0435\u044f \u0413\u0435\u0440\u043e\u0435\u0432,3\u003Cbr\u003E+7-8442-50-4007\u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027vk\u0027 target=\u0027_blank\u0027 href=\u0027http:\/\/vk.com\/oblako_shop\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
+            hintContent: '- Oblako Hookah Shop',
+            balloonContentHeader:'- Oblako Hookah Shop',
+            balloonContentBody: '\u003Cp\u003E3 Geroyev Avenue\u003Cbr\u003E+7-8442-50-4007\u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027vk\u0027 target=\u0027_blank\u0027 href=\u0027http:\/\/vk.com\/oblako_shop\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
             
             
         }))
         .add(new ymaps.Placemark([48.724352467300, 44.514093406700], {
-            hintContent: '\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u043a\u0430\u043b\u044c\u044f\u043d\u043e\u0432 \u041e\u0431\u043b\u0430\u043a\u043e',
-            balloonContentHeader:'\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u043a\u0430\u043b\u044c\u044f\u043d\u043e\u0432 \u041e\u0431\u043b\u0430\u043a\u043e',
-            balloonContentBody: '\u003Cp\u003E\u0420\u043e\u043a\u043e\u0441\u0441\u043e\u0432\u0441\u043a\u043e\u0433\u043e,107\u003Cbr\u003E+7-8442-50-7307\u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027vk\u0027 target=\u0027_blank\u0027 href=\u0027HTTP:\/\/vk.com\/oblako_shop\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
+            hintContent: 'Oblako Hookah Shop',
+            balloonContentHeader:'Oblako Hookah Shop',
+            balloonContentBody: '107 Rokossovski Street\u003Cbr\u003E+7-8442-50-7307\u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027vk\u0027 target=\u0027_blank\u0027 href=\u0027HTTP:\/\/vk.com\/oblako_shop\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
             
@@ -231,7 +231,7 @@ function init() {
          .add(new ymaps.Placemark([43.102346074497, 131.914860873020], {
             hintContent: 'Oasis',
             balloonContentHeader:'Oasis',
-            balloonContentBody: '\u003Cp\u003E\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0430, 45\u003Cbr\u003E+7-914-965-9996\u003Cbr\u003Evladivostok@oasiscoconutcoal.com\u003Cbr\u003E\u003C\/p\u003E'
+            balloonContentBody: '45 Kalinin Street\u003Cbr\u003E+7-914-965-9996\u003Cbr\u003Evladivostok@oasiscoconutcoal.com\u003Cbr\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
             
