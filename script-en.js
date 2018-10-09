@@ -258,7 +258,7 @@ function init() {
          .add(new ymaps.Placemark([53.353827394645, 83.774864084656], {
             hintContent: 'Hookah Market',
             balloonContentHeader:'Hookah Market',
-            balloonContentBody: '12 Brestskaya Street br\u003E+7-964-508-2828\u003Cbr\u003Ebarnaul@oasiscoconutcoal.com\u003Cbr\u003E\u003C\/p\u003E'
+            balloonContentBody: '12 Brestskaya Street\u003Cbr\u003E+7-964-508-2828\u003Cbr\u003Ebarnaul@oasiscoconutcoal.com\u003Cbr\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
             
@@ -777,7 +777,7 @@ function init() {
          .add(new ymaps.Placemark([64.544805025500, 40.523871915300], {
             hintContent: 'Smoke House Hookah Lounge',
             balloonContentHeader:'Smoke House Hookah Lounge',
-            balloonContentBody: '15 Karla Marksa Street <br> https://vk.com/sh_arhangelsk'
+            balloonContentBody: '15 Karla Marksa Street\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/sh_arhangelsk\u0027\u003Ehttps:\/\/vk.com\/sh_arhangelsk\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
             
@@ -804,7 +804,7 @@ function init() {
          .add(new ymaps.Placemark([50.596350979700, 36.585326473600], {
             hintContent: 'Shisha bar Smoke House',
             balloonContentHeader:'Shisha bar Smoke House',
-            balloonContentBody: 'Belgorodbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/sh_belgorod\u0027\u003Ehttps:\/\/vk.com\/sh_belgorod\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
+            balloonContentBody: 'Belgorod\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/sh_belgorod\u0027\u003Ehttps:\/\/vk.com\/sh_belgorod\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
             
