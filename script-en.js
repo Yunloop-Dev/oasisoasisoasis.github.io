@@ -105,18 +105,18 @@ function init() {
             
         }))
         .add(new ymaps.Placemark([56.013429649000, 92.856697084700], {
-            hintContent: '\u041c\u0430\u0433\u0430\u0437\u0438\u043d Boutique Life',
-            balloonContentHeader:'\u041c\u0430\u0433\u0430\u0437\u0438\u043d Boutique Life',
-            balloonContentBody: '\u003Cp\u003E\u0412\u0430\u0432\u0438\u043b\u043e\u0432\u0430, 1, \u0441\u0442\u0440 1, \u043e\u0444 202\u003Cbr\u003E+7-391-217-9967\u003Cbr\u003Eboutique_life@bk.ru\u003Cbr\u003E\u003C\/p\u003E'
+            hintContent: 'Boutigue Life Shop',
+            balloonContentHeader:'Boutigue Life Shop',
+            balloonContentBody: '1 Vavilova Street, building 1, office 202\u003Cbr\u003E+7-391-217-9967\u003Cbr\u003Eboutique_life@bk.ru\u003Cbr\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
             
             
         }))
         .add(new ymaps.Placemark([55.993600068800, 92.911928330700], {
-            hintContent: '\u041c\u0430\u0433\u0430\u0437\u0438\u043d Boutique Life',
-            balloonContentHeader:'\u041c\u0430\u0433\u0430\u0437\u0438\u043d Boutique Life',
-            balloonContentBody: '\u003Cp\u003E\u0414\u0437\u0435\u0440\u0436\u0438\u043d\u0441\u043a\u043e\u0433\u043e, 26, \u043e\u0444 306\u003Cbr\u003E+7-391-229-5482\u003Cbr\u003Eboutique_life@bk.ru\u003Cbr\u003E\u003C\/p\u003E'
+            hintContent: 'Boutigue Life Shop',
+            balloonContentHeader:'Boutigue Life Shop',
+            balloonContentBody: '26 Dzerzhinskogo Street, office 306\u003Cbr\u003E+7-391-229-5482\u003Cbr\u003Eboutique_life@bk.ru\u003Cbr\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
             
@@ -159,9 +159,9 @@ function init() {
             
         }))
          .add(new ymaps.Placemark([55.755331616000, 37.622215952600], {
-            hintContent: '\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d D-tobacco',
-            balloonContentHeader:'\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d D-tobacco',
-            balloonContentBody: '\u003Cp\u003E\u041c\u043e\u0441\u043a\u0432\u0430\u003Cbr\u003E+7-495-120-09-03 \u0434\u043e\u0431.7722 \u0438\u043b\u0438 7723\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027http:\/\/d-tobacco.ru\/\u0027\u003Ehttp:\/\/d-tobacco.ru\/\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
+            hintContent: 'D-tobacco Online Shop',
+            balloonContentHeader:'D-tobacco Online Shop',
+            balloonContentBody: '+7-495-120-09-03\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027http:\/\/d-tobacco.ru\/\u0027\u003Ehttp:\/\/d-tobacco.ru\/\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
             
@@ -394,7 +394,7 @@ function init() {
          .add(new ymaps.Placemark([42.954327812982, 47.509484542328], {
             hintContent: 'HookahPlace05',
             balloonContentHeader:'HookahPlace05',
-            balloonContentBody: '\u003Cp\u003E\u0413\u0430\u0433\u0430\u0440\u0438\u043d\u0430, 41 \u0430\u003Cbr\u003E+7-928-249-54-44\u003Cbr\u003Emakhachkala@oasiscoconutcoal\u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027vk\u0027 target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/hookahplace_mahachkala \u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
+            balloonContentBody: '41 a Gagarina Street\u003Cbr\u003E+7-928-249-54-44\u003Cbr\u003Emakhachkala@oasiscoconutcoal\u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027vk\u0027 target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/hookahplace_mahachkala \u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
             
@@ -625,9 +625,9 @@ function init() {
             
         }))
          .add(new ymaps.Placemark([55.752936450100, 37.624988343700], {
-            hintContent: '\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d Hookoff',
-            balloonContentHeader:'\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d Hookoff',
-            balloonContentBody: '\u003Cp\u003E\u041c\u043e\u0441\u043a\u0432\u0430\u003Cbr\u003E8-495-118-2085\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027http:\/\/hookoff.ru\/\u0027\u003Ehttp:\/\/hookoff.ru\/\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
+            hintContent: 'HookOff Hookah Company',
+            balloonContentHeader:'HookOff Hookah Company',
+            balloonContentBody: '8-495-118-2085\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027http:\/\/hookoff.ru\/\u0027\u003Ehttp:\/\/hookoff.ru\/\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
             
