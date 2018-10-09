@@ -383,9 +383,9 @@ function init() {
             
         }))
          .add(new ymaps.Placemark([53.244159571184, 34.364260288361], {
-            hintContent: '\u041c\u0430\u0433\u0430\u0437\u0438\u043d Darkside Shop',
-            balloonContentHeader:'\u041c\u0430\u0433\u0430\u0437\u0438\u043d Darkside Shop',
-            balloonContentBody: '\u003Cp\u003E\u041f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041b\u0435\u043d\u0438\u043d\u0430, \u0434. 39\u003Cbr\u003E+7-920-851-4000\u003Cbr\u003Ebryansk@oasiscoconutcoal.com\u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027vk\u0027 target=\u0027_blank\u0027 href=\u0027http:\/\/vk.com\/darksidecentr\u00a0\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
+            hintContent: 'Darkside Shop',
+            balloonContentHeader:'Darkside Shop',
+            balloonContentBody: '39 Lenina Avenue\u003Cbr\u003E+7-920-851-4000\u003Cbr\u003Ebryansk@oasiscoconutcoal.com\u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027vk\u0027 target=\u0027_blank\u0027 href=\u0027http:\/\/vk.com\/darksidecentr\u00a0\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
             
