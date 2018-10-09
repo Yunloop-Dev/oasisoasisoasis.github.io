@@ -258,7 +258,7 @@ function init() {
          .add(new ymaps.Placemark([53.353827394645, 83.774864084656], {
             hintContent: 'Hookah Market',
             balloonContentHeader:'Hookah Market',
-            balloonContentBody: 'u003Cp\u003E\u0411\u0440\u0435\u0441\u0442\u0441\u043a\u0430\u044f \u0434.12\u003Cbr\u003E+7-964-508-2828\u003Cbr\u003Ebarnaul@oasiscoconutcoal.com\u003Cbr\u003E\u003C\/p\u003E'
+            balloonContentBody: '12 Brestskaya Street br\u003E+7-964-508-2828\u003Cbr\u003Ebarnaul@oasiscoconutcoal.com\u003Cbr\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
             
