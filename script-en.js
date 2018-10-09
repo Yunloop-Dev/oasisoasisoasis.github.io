@@ -804,7 +804,7 @@ function init() {
          .add(new ymaps.Placemark([50.596350979700, 36.585326473600], {
             hintContent: 'Shisha bar Smoke House',
             balloonContentHeader:'Shisha bar Smoke House',
-            balloonContentBody: 'Belgorod br\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/sh_belgorod\u0027\u003Ehttps:\/\/vk.com\/sh_belgorod\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
+            balloonContentBody: 'Belgorodbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/sh_belgorod\u0027\u003Ehttps:\/\/vk.com\/sh_belgorod\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
             
