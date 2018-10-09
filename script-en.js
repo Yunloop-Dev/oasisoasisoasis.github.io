@@ -62,7 +62,7 @@ function init() {
         .add(new ymaps.Placemark([48.724352467300, 44.514093406700], {
             hintContent: 'Oblako Hookah Shop',
             balloonContentHeader:'Oblako Hookah Shop',
-            balloonContentBody: '107 Rokossovski Street\u003Cbr\u003E+7-8442-50-7307\u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027vk\u0027 target=\u0027_blank\u0027 href=\u0027HTTP:\/\/vk.com\/oblako_shop\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
+            balloonContentBody: '\u003Cp\u003E107 Rokossovski Street\u003Cbr\u003E+7-8442-50-7307\u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027vk\u0027 target=\u0027_blank\u0027 href=\u0027HTTP:\/\/vk.com\/oblako_shop\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
             
