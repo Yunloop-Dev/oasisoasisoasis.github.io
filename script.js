@@ -819,7 +819,7 @@ function init() {
             
             
         }))
-        .add(new ymaps.Placemark([39.893015029297, 57.624206970844], {
+        .add(new ymaps.Placemark([59.92092377052408, 10.74666151820894], {
             hintContent: '\u041a\u0430\u043b\u044c\u044f\u043d\u043d\u0430\u044f TEST CONTENT',
             balloonContentHeader:'\u041a\u0430\u043b\u044c\u044f\u043d\u043d\u0430\u044f TEST HEADER',
             balloonContentBody: '\u003Cp\u003E\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f, 354\u003Cbr\u003E8-900-233-3101\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/smokehouse_krd\u0027\u003Ehttps:\/\/vk.com\/smokehouse_krd\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
