@@ -282,7 +282,7 @@ function init() {
             
             
         }))
-         .add(new ymaps.Placemark([56.89348056779104, 60.590719000000014], {
+         .add(new ymaps.Placemark([60.590719000000014, 56.89348056779104], {
             hintContent: 'Sensimilla',
             balloonContentHeader:'Sensimilla',
             balloonContentBody: '\u003Cp\u003E\u041f\u0440. \u041a\u043e\u0441\u043c\u043e\u043d\u0430\u0432\u0442\u043e\u0432 27\u003Cbr\u003E8-343-302-0717\u003Cbr\u003Esensimillashop@oasiscoconutcoal.com\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027ekb.royal-smoke.com\u0027\u003Eekb.royal-smoke.com\u003C\/a\u003E\u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027vk\u0027 target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/club162717459\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
