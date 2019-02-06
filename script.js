@@ -542,24 +542,8 @@ function init() {
             
             
         }))
-         .add(new ymaps.Placemark([65.986720516178, 57.556928500000], {
-            hintContent: '\u041a\u0430\u043b\u044c\u044f\u043d\u043d\u0430\u044f',
-            balloonContentHeader:'\u041a\u0430\u043b\u044c\u044f\u043d\u043d\u0430\u044f',
-            balloonContentBody: '\u003Cp\u003E60 \u043b\u0435\u0442 \u041e\u043a\u0442\u044f\u0431\u0440\u044f, 8\u003Cbr\u003E+7(82144) 9-22-33\u003Cbr\u003Eusinsk@oasiscoconutcoal.com\u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027vk\u0027 target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/fireworks11111\u0027\u003E\u003C\/a\u003E\u003Ca class=\u0027insta\u0027 target=\u0027_blank\u0027 href=\u0027https:\/\/www.instagram.com\/sergey.apanovich\/\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
-    }, {
-            preset: 'islands#yellowStarIcon',
-            
-            
-        }))
-         .add(new ymaps.Placemark([65.987327516594, 57.560195042328], {
-            hintContent: '\u0424\u0438\u0440\u043c\u0435\u043d\u043d\u044b\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0022\u0424\u0435\u0439\u0435\u0440\u0432\u0435\u0440\u043a\u043e\u0432\u0022',
-            balloonContentHeader:'\u0424\u0438\u0440\u043c\u0435\u043d\u043d\u044b\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0022\u0424\u0435\u0439\u0435\u0440\u0432\u0435\u0440\u043a\u043e\u0432\u0022',
-            balloonContentBody: '\u003Cp\u003E60 \u043b\u0435\u0442 \u041e\u043a\u0442\u044f\u0431\u0440\u044f, 12\u003Cbr\u003E+7-912-956-50-50\u003Cbr\u003Eusinsk@oasiscoconutcoal.com\u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027vk\u0027 target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/fireworks11111\u0027\u003E\u003C\/a\u003E\u003Ca class=\u0027insta\u0027 target=\u0027_blank\u0027 href=\u0027https:\/\/www.instagram.com\/sergey.apanovich\/\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
-    }, {
-            preset: 'islands#yellowStarIcon',
-            
-            
-        }))
+         
+        
          .add(new ymaps.Placemark([54.964631654173, 73.383419338623], {
             hintContent: '\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u00ab\u0414\u0430\u0432\u0430\u0439 \u043f\u043e\u043a\u0440\u0435\u043f\u0447\u0435\u00bb',
             balloonContentHeader:'\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u00ab\u0414\u0430\u0432\u0430\u0439 \u043f\u043e\u043a\u0440\u0435\u043f\u0447\u0435\u00bb',
