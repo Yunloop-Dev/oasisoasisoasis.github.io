@@ -725,7 +725,18 @@ function init() {
             preset: 'islands#yellowStarIcon',
 
 
+        }))
+		
+		.add(new ymaps.Placemark([43.26634696266264, 76.90434270884917], {
+            hintContent: '\u041a\u0430\u043b\u044c\u044f\u043d\u043d\u0430\u044f ДымDi store by Smoky Fairy',
+            balloonContentHeader:'\u041a\u0430\u043b\u044c\u044f\u043d\u043d\u0430\u044f ДымDi store by Smoky Fairy',
+            balloonContentBody: '\u003Cp\u003E\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f, 354\u003Cbr\u003E8-900-233-3101\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027https:\/\/instagram.com\/dymdi.store\u0027\u003Ehttps:\/\/instagram.com\/dymdi.store\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
+    }, {
+            preset: 'islands#yellowStarIcon',
+
+
         }));
+
 
 
 
