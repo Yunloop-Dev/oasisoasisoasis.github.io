@@ -23,15 +23,7 @@ function init() {
     ggMap.geoObjects
         
         
-        .add(new ymaps.Placemark([44.495650238300, 34.164169568800], {
-            hintContent: '\u041c\u0438\u0445\u0430\u0438\u043b \u041b\u0430\u043d\u0435\u0446\u043a\u0438\u0439',
-            balloonContentHeader:'\u041c\u0438\u0445\u0430\u0438\u043b \u041b\u0430\u043d\u0435\u0446\u043a\u0438\u0439',
-            balloonContentBody: '\u003Cp\u003E\u042f\u043b\u0442\u0430\u003Cbr\u003E8-978-705-1866\u003Cbr\u003EDjemeron@gmail.com\u003Cbr\u003E\u003C\/p\u003E'
-        }, {
-            preset: 'islands#yellowStarIcon',
-            
-            
-        }))
+       
         .add(new ymaps.Placemark([58.599884213500, 49.660120416000], {
             hintContent: 'Oasis \u041a\u0438\u0440\u043e\u0432',
             balloonContentHeader:'Oasis \u041a\u0438\u0440\u043e\u0432',
@@ -158,22 +150,8 @@ function init() {
             
             
         }))
-         .add(new ymaps.Placemark([55.755331616000, 37.622215952600], {
-            hintContent: '\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d D-tobacco',
-            balloonContentHeader:'\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d D-tobacco',
-            balloonContentBody: '\u003Cp\u003E\u041c\u043e\u0441\u043a\u0432\u0430\u003Cbr\u003E+7-495-120-09-03 \u0434\u043e\u0431.7722 \u0438\u043b\u0438 7723\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027http:\/\/d-tobacco.ru\/\u0027\u003Ehttp:\/\/d-tobacco.ru\/\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
-    }, {
-            preset: 'islands#yellowStarIcon',
-            
-            
-        }))
-         .add(new ymaps.Placemark([52.975896614083, 36.069243002441], {
-            balloonContentBody: '\u003Cp\u003E8-920-851-4000 ; 8-919-295-8375\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027http:\/\/vk.com\/darksidecentr \u0027\u003Ehttp:\/\/vk.com\/darksidecentr \u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
-    }, {
-            preset: 'islands#yellowStarIcon',
-            
-            
-        }))
+         
+        
          .add(new ymaps.Placemark([52.968323389879, 36.060246084656], {
             hintContent: 'Darkside Shop',
             balloonContentHeader:'Darkside Shop',
@@ -337,15 +315,7 @@ function init() {
             
             
         }))
-         .add(new ymaps.Placemark([54.628331170442, 39.737233542328], {
-            hintContent: '\u041c\u0430\u0433\u0430\u0437\u0438\u043d',
-            balloonContentHeader:'\u041c\u0430\u0433\u0430\u0437\u0438\u043d',
-            balloonContentBody: '\u003Cp\u003E\u041a\u0440\u0430\u0441\u043d\u043e\u0440\u044f\u0434\u0441\u043a\u0430\u044f, \u0434.1\u003Cbr\u003E+7-920-977-4797\u003Cbr\u003Eryazan@oasiscoconutcoal.com\u003Cbr\u003E\u003C\/p\u003E'
-    }, {
-            preset: 'islands#yellowStarIcon',
-            
-            
-        }))
+         
          .add(new ymaps.Placemark([48.699762249374, 44.503192915344], {
             hintContent: '\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u0414\u0432\u043e\u0439\u043d\u043e\u0435 \u044f\u0431\u043b\u043e\u043a\u043e',
             balloonContentHeader:'\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u0414\u0432\u043e\u0439\u043d\u043e\u0435 \u044f\u0431\u043b\u043e\u043a\u043e',
@@ -400,15 +370,7 @@ function init() {
             
             
         }))
-          .add(new ymaps.Placemark([56.340657650797, 43.952476746033], {
-            hintContent: 'Eva hookah shop',
-            balloonContentHeader:'Eva hookah shop',
-            balloonContentBody: '\u003Cp\u003E\u041a\u0430\u0440\u043b\u0430 \u041c\u0430\u0440\u043a\u0441\u0430, 58 \u003Cbr\u003E+7-999-120-3091\u003Cbr\u003Enn@oasiscoconutcoal.com\u003Cbr\u003E\u003C\/p\u003E'
-    }, {
-            preset: 'islands#yellowStarIcon',
-            
-            
-        }))
+          
           .add(new ymaps.Placemark([45.046412074572, 38.979288330688], {
             hintContent: 'Hookah Like',
             balloonContentHeader:'Hookah Like',
@@ -463,40 +425,7 @@ function init() {
             
             
         }))
-          .add(new ymaps.Placemark([45.048043652310, 38.965395500000], {
-            
-            balloonContentBody: '\u003Cp\u003E\u0418\u043c \u0411\u0430\u0431\u0443\u0448\u043a\u0438\u043d\u0430 \u0443\u043b, \u0434\u043e\u043c 218\u003Cbr\u003E+7-861-259-44-43\u003Cbr\u003E 12:00- 03:00 \u003Cbr\u003EKrasnodar@oasiscoconutcoal.com \u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027insta\u0027 target=\u0027_blank\u0027 href=\u0027http:\/\/instagram.com\/hookahplacekrasnodar\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
-    }, {
-            preset: 'islands#yellowStarIcon',
-            
-            
-        }))
-          .add(new ymaps.Placemark([61.788323925748, 34.359135169312], {
-            
-            balloonContentBody: '\u003Cp\u003E\u041f\u0440. \u041b\u0435\u043d\u0438\u043d\u0430, 23\u003Cbr\u003E+7-8142-634-754\u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027vk\u0027 target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/centrlounge\u0027\u003E\u003C\/a\u003E\u003Ca class=\u0027insta\u0027 target=\u0027_blank\u0027 href=\u0027https:\/\/www.instagram.com\/centrptz\/\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
-    }, {
-            preset: 'islands#yellowStarIcon',
-            
-            
-        }))
-          .add(new ymaps.Placemark([55.789011618455, 37.634272000000], {
-            hintContent: '\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u043a\u0430\u043b\u044c\u044f\u043d\u043e\u0432 Smokyland',
-            balloonContentHeader:'\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u043a\u0430\u043b\u044c\u044f\u043d\u043e\u0432 Smokyland',
-            balloonContentBody: '\u003Cp\u003E\u041f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0438\u0440\u0430, 73\u003Cbr\u003E+7 (958) 756-84-03\u003Cbr\u003Esmokyland@oasiscoconutcoal.com\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027Smokyland.ru\u0027\u003ESmokyland.ru\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
-    }, {
-            preset: 'islands#yellowStarIcon',
-            
-            
-        }))
-         .add(new ymaps.Placemark([55.745132276577, 37.651348788361], {
-            hintContent: '\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u043a\u0430\u043b\u044c\u044f\u043d\u043e\u0432 Smokyland',
-            balloonContentHeader:'\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u043a\u0430\u043b\u044c\u044f\u043d\u043e\u0432 Smokyland',
-            balloonContentBody: '\u003Cp\u003E\u0422\u0435\u0442\u0435\u0440\u0438\u043d\u0441\u043a\u0438\u0439  \u043f\u0435\u0440\u0435\u0443\u043b\u043e\u043a, 4, \u04411\u003Cbr\u003E+7 (958) 756-84-03\u003Cbr\u003Esmokyland@oasiscoconutcoal.com\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027Smokyland.ru\u0027\u003ESmokyland.ru\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
-    }, {
-            preset: 'islands#yellowStarIcon',
-            
-            
-        }))
+         
          .add(new ymaps.Placemark([55.032345597678, 82.933167026459], {
             hintContent: 'Smokehouse shop',
             balloonContentHeader:'Smokehouse shop',
@@ -642,14 +571,7 @@ function init() {
             
             
         }))
-         .add(new ymaps.Placemark([45.029328926183, 38.973995957672], {
-            
-            balloonContentBody: '\u003Cp\u003E\u041a\u0440\u0430\u0441\u043d\u043e\u0430\u0440\u043c\u0435\u0439\u0441\u043a\u0430\u044f, 59\u003Cbr\u003E+7-925-277-3774\u003Cbr\u003E\u0441 15:00 \u0434\u043e 03:00\u003Cbr\u003EKrasnodar@oasiscoconutcoal.com \u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027vk\u0027 target=\u0027_blank\u0027 href=\u0027https:\/\/vk.com\/id367905786\u0027\u003E\u003C\/a\u003E\u003Ca class=\u0027insta\u0027 target=\u0027_blank\u0027 href=\u0027http:\/\/instagram.com\/r.f.handmade_hookahs\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
-    }, {
-            preset: 'islands#yellowStarIcon',
-            
-            
-        }))
+         
          .add(new ymaps.Placemark([55.767587440200, 37.652042584700], {
             hintContent: '\u041a\u0430\u043b\u044c\u044f\u043d\u043d\u0430\u044f HookahPlace Mansion',
             balloonContentHeader:'\u041a\u0430\u043b\u044c\u044f\u043d\u043d\u0430\u044f HookahPlace Mansion',
