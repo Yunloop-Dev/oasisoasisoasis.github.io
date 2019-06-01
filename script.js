@@ -738,7 +738,7 @@ function init() {
         }))
 	
 	
-	.add(new ymaps.Placemark([53.202749499,56.8523787403], {
+	.add(new ymaps.Placemark([53.20274949999994, 56.852378740308374], {
             hintContent: 'Представительство компании Oasis',
             balloonContentHeader:'Представительство компании Oasis',
             balloonContentBody: '\u003Cp\u003E8-922-690-09-49\u003Cbr\u003E\u003Cbr\u003E\u003C\/p\u003E'
