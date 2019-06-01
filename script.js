@@ -739,9 +739,9 @@ function init() {
 	
 	
 	.add(new ymaps.Placemark([53.20274949999994,56.852378740308374], {
-            hintContent: '\u041a\u0430\u043b\u044c\u044f\u043d\u043d\u0430\u044f ',
-            balloonContentHeader:'\u041a\u0430\u043b\u044c\u044f\u043d\u043d\u0430\u044f ',
-            balloonContentBody: '\u003Cp\u003E\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f, 354\u003Cbr\u003E8-922-690-09-49\u003Cbr\u003E\u003Cbr\u003E\u003C\/p\u003E'
+            hintContent: 'Ижевск',
+            balloonContentHeader:'Ижевск',
+            balloonContentBody: '\u003Cp\u003E8-922-690-09-49\u003Cbr\u003E\u003Cbr\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
 
