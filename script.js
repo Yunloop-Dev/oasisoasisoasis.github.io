@@ -751,8 +751,8 @@ function init() {
 	.add(new ymaps.Placemark([68.97340499889665,33.11475799999999], {
             hintContent: 'Представительство компании Oasis',
             balloonContentHeader:'Представительство компании Oasis',
-            balloonContentBody: '\u003c\u0070\u003e\u0038\u002d\u0039\u0032\u0031\u002d\u0032\u0038\u0037\u002d\u0033\u0032\u002d\u0031\u0035\u003c\u0062\u0072\u003e\u003c\u0062\u0072\u003e\u003c\u002f\u0070\u003e'
-
+	    balloonContentBody: '\u003Cp\u003E8-921-287-32-15\u003Cbr\u003E\u003Cbr\u003E\u003C\/p\u003E'
+            
     }, {
             preset: 'islands#yellowStarIcon',
 
