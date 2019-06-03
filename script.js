@@ -762,7 +762,22 @@ function init() {
             preset: 'islands#yellowStarIcon',
 
 
+        }))
+	
+	
+	.add(new ymaps.Placemark([53.243562, 34.363407], {
+            hintContent: 'Представительство компании Oasis',
+            balloonContentHeader:'Представительство компании Oasis',
+	    balloonContentBody: '\u003Cp\u003E8-915-571-43-35\u003Cbr\u003E\u003Cbr\u003E\u003C\/p\u003E'
+            
+    }, {
+            preset: 'islands#yellowStarIcon',
+
+
         }));
+
+
+
 	
 	
 
