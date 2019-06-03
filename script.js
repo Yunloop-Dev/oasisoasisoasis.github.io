@@ -344,9 +344,9 @@ function init() {
             
         }))
          .add(new ymaps.Placemark([53.244159571184, 34.364260288361], {
-            hintContent: '\u041c\u0430\u0433\u0430\u0437\u0438\u043d Представительсво компании Оазис',
-            balloonContentHeader:'\u041c\u0430\u0433\u0430\u0437\u0438\u043d',
-            balloonContentBody: '\u003Cp\u003E\u041f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041b\u0435\u043d\u0438\u043d\u0430, \u0434. 39\u003Cbr\u003E+7-915-571-4335\u003Cbr\u003Ebelgorod@oasiscoconutcoal.com\u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027vk\u0027 target=\u0027_blank\u0027 href=\u0027http:\/\/\u00a0\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
+            hintContent: '\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \u041e\u0430\u0437\u0438\u0441 Представительсво компании Оазис',
+            balloonContentHeader:'\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \u041e\u0430\u0437\u0438\u0441',
+            balloonContentBody: '+7-915-571-4335\u003Cbr\u003Ebelgorod@oasiscoconutcoal.com\u003Cbr\u003E\u003Cdiv class=\u0027social\u0027\u003E\u003Ca class=\u0027vk\u0027 target=\u0027_blank\u0027 href=\u0027http:\/\/\u00a0\u0027\u003E\u003C\/a\u003E\u003C\/div\u003E\u003C\/p\u003E'
     }, {
             preset: 'islands#yellowStarIcon',
             
