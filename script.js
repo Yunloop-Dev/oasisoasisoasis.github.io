@@ -774,6 +774,19 @@ function init() {
             preset: 'islands#yellowStarIcon',
 
 
+        }))
+	
+	
+	
+	.add(new ymaps.Placemark([47.882980500000016,56.63767406806814], {
+            hintContent: 'Представительство компании Oasis',
+            balloonContentHeader:’Магазин NUAHULE STORE',
+            balloonContentBody: ‘8-996-958-95-56’
+
+    }, {
+            preset: 'islands#yellowStarIcon',
+
+
         }));
 
 
