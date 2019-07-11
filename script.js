@@ -780,8 +780,8 @@ function init() {
 	
 	.add(new ymaps.Placemark([47.882980500000016,56.63767406806814], {
             hintContent: 'Представительство компании Oasis',
-            balloonContentHeader:’Магазин NUAHULE STORE',
-            balloonContentBody: ‘8-996-958-95-56’
+	    balloonContentHeader:'Представительство компании Oasis',
+	    balloonContentBody: '\u003Cp\u003E8-996-958-95-56\u003Cbr\u003E\u003Cbr\u003E\u003C\/p\u003E'
 
     }, {
             preset: 'islands#yellowStarIcon',
