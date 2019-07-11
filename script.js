@@ -778,9 +778,9 @@ function init() {
 	
 	
 	
-	.add(new ymaps.Placemark([47.882980500000016,56.63767406806814], {
+	.add(new ymaps.Placemark([56.63767406806814,47.882980500000016], {
             hintContent: 'Представительство компании Oasis',
-	    balloonContentHeader:'Представительство компании Oasis',
+	    balloonContentHeader:'Магазин «NUAHULE STORE»',
 	    balloonContentBody: '\u003Cp\u003E8-996-958-95-56\u003Cbr\u003E\u003Cbr\u003E\u003C\/p\u003E'
 
     }, {
