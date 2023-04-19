@@ -34,26 +34,26 @@ function init() {
             
         }))
 	// Add
-	        .add(new ymaps.Placemark([59.927869875400, 30.370724542300], {
-            hintContent: '\u041c\u0430\u0433\u0430\u0437\u0438\u043d Smokelab SPB',
-            balloonContentHeader:'\u041c\u0430\u0433\u0430\u0437\u0438\u043d Darkside Shop',
-            balloonContentBody: '\u0443\u043b\u0438\u0446\u0430\u0020\u041c\u0430\u0440\u0430\u0442\u0430, 57\u003Cbr\u003E+7 921 908-48-05\u003Cbr\u003E\u043f\u043d - \u043f\u0442: \u0441 9.00 \u0434\u043e 18.00\r\n\u003Cbr\u003Esale@darksideshop.com\u003Cbr\u003E\u003C\/p\u003E'
-    }, {
-            preset: 'islands#yellowStarIcon',
-            
-            
-        }))
-	
-	// ------------
-//         .add(new ymaps.Placemark([59.927869875400, 30.370724542300], {
-//             hintContent: '\u041c\u0430\u0433\u0430\u0437\u0438\u043d Darkside Shop',
+// 	        .add(new ymaps.Placemark([59.927869875400, 30.370724542300], {
+//             hintContent: '\u041c\u0430\u0433\u0430\u0437\u0438\u043d Smokelab SPB',
 //             balloonContentHeader:'\u041c\u0430\u0433\u0430\u0437\u0438\u043d Darkside Shop',
-//             balloonContentBody: '\u003Cp\u003E\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u043a\u0430\u044f, 8\u003Cbr\u003E+7-921-909-7800\u003Cbr\u003E\u043f\u043d - \u043f\u0442: \u0441 9.00 \u0434\u043e 18.00\r\n\u003Cbr\u003Esale@darksideshop.com\u003Cbr\u003E\u003C\/p\u003E'
+//             balloonContentBody: '\u0443\u043b\u0438\u0446\u0430\u0020\u041c\u0430\u0440\u0430\u0442\u0430, 57\u003Cbr\u003E+7 921 908-48-05\u003Cbr\u003E\u043f\u043d - \u043f\u0442: \u0441 9.00 \u0434\u043e 18.00\r\n\u003Cbr\u003Esale@darksideshop.com\u003Cbr\u003E\u003C\/p\u003E'
 //     }, {
 //             preset: 'islands#yellowStarIcon',
             
             
 //         }))
+	
+	// ------------
+        .add(new ymaps.Placemark([59.927869875400, 30.370724542300], {
+            hintContent: '\u041c\u0430\u0433\u0430\u0437\u0438\u043d Darkside Shop',
+            balloonContentHeader:'\u041c\u0430\u0433\u0430\u0437\u0438\u043d Darkside Shop',
+            balloonContentBody: '\u003Cp\u003E\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u043a\u0430\u044f, 8\u003Cbr\u003E+7-921-909-7800\u003Cbr\u003E\u043f\u043d - \u043f\u0442: \u0441 9.00 \u0434\u043e 18.00\r\n\u003Cbr\u003Esale@darksideshop.com\u003Cbr\u003E\u003C\/p\u003E'
+    }, {
+            preset: 'islands#yellowStarIcon',
+            
+            
+        }))
         .add(new ymaps.Placemark([48.705730680000, 44.517961415300], {
             hintContent: '\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u043a\u0430\u043b\u044c\u044f\u043d\u043e\u0432 \u041e\u0431\u043b\u0430\u043a\u043e',
             balloonContentHeader:'\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u043a\u0430\u043b\u044c\u044f\u043d\u043e\u0432 \u041e\u0431\u043b\u0430\u043a\u043e',
