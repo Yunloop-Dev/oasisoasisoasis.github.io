@@ -33,15 +33,15 @@ function init() {
             
             
         }))
-        .add(new ymaps.Placemark([59.927869875400, 30.370724542300], {
-            hintContent: '\u041c\u0430\u0433\u0430\u0437\u0438\u043d Darkside Shop',
-            balloonContentHeader:'\u041c\u0430\u0433\u0430\u0437\u0438\u043d Darkside Shop',
-            balloonContentBody: '\u003Cp\u003E\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u043a\u0430\u044f, 8\u003Cbr\u003E+7-921-909-7800\u003Cbr\u003E\u043f\u043d - \u043f\u0442: \u0441 9.00 \u0434\u043e 18.00\r\n\u003Cbr\u003Esale@darksideshop.com\u003Cbr\u003E\u003C\/p\u003E'
-    }, {
-            preset: 'islands#yellowStarIcon',
+//         .add(new ymaps.Placemark([59.927869875400, 30.370724542300], {
+//             hintContent: '\u041c\u0430\u0433\u0430\u0437\u0438\u043d Darkside Shop',
+//             balloonContentHeader:'\u041c\u0430\u0433\u0430\u0437\u0438\u043d Darkside Shop',
+//             balloonContentBody: '\u003Cp\u003E\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u043a\u0430\u044f, 8\u003Cbr\u003E+7-921-909-7800\u003Cbr\u003E\u043f\u043d - \u043f\u0442: \u0441 9.00 \u0434\u043e 18.00\r\n\u003Cbr\u003Esale@darksideshop.com\u003Cbr\u003E\u003C\/p\u003E'
+//     }, {
+//             preset: 'islands#yellowStarIcon',
             
             
-        }))
+//         }))
         .add(new ymaps.Placemark([48.705730680000, 44.517961415300], {
             hintContent: '\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u043a\u0430\u043b\u044c\u044f\u043d\u043e\u0432 \u041e\u0431\u043b\u0430\u043a\u043e',
             balloonContentHeader:'\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u043a\u0430\u043b\u044c\u044f\u043d\u043e\u0432 \u041e\u0431\u043b\u0430\u043a\u043e',
@@ -539,15 +539,15 @@ function init() {
             
             
         }))
-         .add(new ymaps.Placemark([59.930562476700, 30.316564328100], {
-            hintContent: '\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d USA HOOKAH SHOP',
-            balloonContentHeader:'\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d USA HOOKAH SHOP',
-            balloonContentBody: '\u003Cp\u003E\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u003Cbr\u003E8-812-900-2477\u003Cbr\u003Esales@usahookahshop.ru\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027http:\/\/usahookahshop.ru\/\u0027\u003Ehttp:\/\/usahookahshop.ru\/\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
-    }, {
-            preset: 'islands#yellowStarIcon',
+//          .add(new ymaps.Placemark([59.930562476700, 30.316564328100], {
+//             hintContent: '\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d USA HOOKAH SHOP',
+//             balloonContentHeader:'\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d USA HOOKAH SHOP',
+//             balloonContentBody: '\u003Cp\u003E\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u003Cbr\u003E8-812-900-2477\u003Cbr\u003Esales@usahookahshop.ru\u003Cbr\u003E\u003Ca target=\u0027_blank\u0027 href=\u0027http:\/\/usahookahshop.ru\/\u0027\u003Ehttp:\/\/usahookahshop.ru\/\u003C\/a\u003E\u003Cbr\u003E\u003C\/p\u003E'
+//     }, {
+//             preset: 'islands#yellowStarIcon',
             
             
-        }))
+//         }))
          .add(new ymaps.Placemark([53.509002252761, 49.293481084656], {
             
             balloonContentBody: '\u003Cp\u003E\u0421\u0442\u0435\u043f\u0430\u043d\u0430 \u0420\u0430\u0437\u0438\u043d\u0430,79\u003Cbr\u003E+7-939-705-9000\u003Cbr\u003Esmokedepo@oasiscoconutcoal.com\u003Cbr\u003E\u003C\/p\u003E'
